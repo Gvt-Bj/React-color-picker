@@ -1,6 +1,10 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Contains react app with vite(latest as of now)
+no special UI but only functionality working good
+hexadecimal value to hsl color generation
+simple and easy code
 
 Currently, two official plugins are available:
 
